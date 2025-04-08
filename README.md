@@ -1,2 +1,2 @@
-# JogoDaVelha---L-gica-de-Programa-o
+# JogoDaVelha-Lógica de Programação
 Lógica de Programação - Rocketseat
